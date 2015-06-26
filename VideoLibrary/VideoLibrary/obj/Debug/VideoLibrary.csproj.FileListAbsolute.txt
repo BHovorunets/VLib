@@ -1,0 +1,16 @@
+D:\University\VideoLibrary\VideoLibrary\bin\Debug\VideoLibrary.exe.config
+D:\University\VideoLibrary\VideoLibrary\bin\Debug\VideoLibrary.exe
+D:\University\VideoLibrary\VideoLibrary\bin\Debug\VideoLibrary.pdb
+D:\University\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.csprojResolveAssemblyReference.cache
+D:\University\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.Properties.Resources.resources
+D:\University\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.csproj.GenerateResource.Cache
+D:\University\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.exe
+D:\University\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.pdb
+D:\University\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.AddTableForm.resources
+D:\University\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.LibraryForm.resources
+D:\University\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.DBexplorerForm.resources
+D:\University\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.DeleteTableForm.resources
+D:\University\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.ModifyTablesForm.resources
+D:\University\VideoLibrary\VideoLibrary\bin\Debug\App_Data\VideoLibraryDB.mdf
+D:\University\VideoLibrary\VideoLibrary\bin\Debug\App_Data\VideoLibraryDB_log.ldf
+D:\University\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.ComplexQueryForm.resources
